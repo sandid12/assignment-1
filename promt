@@ -1,0 +1,9 @@
+I want to build a Sponsors section for my website using HTML and CSS.
+ The section should have a heading called "Our Sponsors" and a short subtitle saying "Proudly supported by industry leaders.
+ " Below the heading, show four sponsor cards in a grid layout. Each card should contain a sponsor logo and the sponsor's name underneath it.
+  The cards should have a dark background, rounded corners, a soft shadow, and a simple hover effect that slightly lifts the card. 
+  The design should be fully responsive: 
+  - 4 cards in one row on desktop 
+  - 2 cards per row on tablets 
+  - 1 card per row on mobile devices
+   Use semantic HTML5 and clean, organized CSS. Keep the design modern, simple, and easy to read.
